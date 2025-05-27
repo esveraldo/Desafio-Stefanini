@@ -1,0 +1,174 @@
+[
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "CadastroDePessoas.Application.Dtos.Usuarios.LoginRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Usuarios.LoginResponseDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.UsuariosController",
+    "Method": "Get",
+    "RelativePath": "api/usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.PessoasController",
+    "Method": "Get",
+    "RelativePath": "api/v1/pessoas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.PessoasController",
+    "Method": "Post",
+    "RelativePath": "api/v1/pessoas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputPessoaDto",
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.InputPessoaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.InputPessoaDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.PessoasController",
+    "Method": "Put",
+    "RelativePath": "api/v1/pessoas",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updatePessoaDto",
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.UpdatePessoaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.UpdatePessoaDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.PessoasController",
+    "Method": "Get",
+    "RelativePath": "api/v1/pessoas/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v1.PessoasController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/pessoas/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "CadastroDePessoas.Service.Api.Controllers.v2.PessoasController",
+    "Method": "Post",
+    "RelativePath": "api/v2/pessoas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputPessoaDto",
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.InputPessoaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.InputPessoaDto",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  }
+]

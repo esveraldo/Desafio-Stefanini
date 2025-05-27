@@ -1,0 +1,15 @@
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\bin\Debug\net8.0\CadastroDePessoas.Domain.deps.json
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\bin\Debug\net8.0\CadastroDePessoas.Domain.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\bin\Debug\net8.0\CadastroDePessoas.Domain.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.csproj.AssemblyReference.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.AssemblyInfoInputs.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.AssemblyInfo.cs
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.csproj.CoreCompileInputs.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\Cadastro.F5353083.Up2Date
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\refint\CadastroDePessoas.Domain.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\CadastroDePessoas.Domain.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain\obj\Debug\net8.0\ref\CadastroDePessoas.Domain.dll

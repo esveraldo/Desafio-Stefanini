@@ -1,0 +1,17 @@
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Application.deps.json
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Application.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Application.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Domain.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Domain.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.csproj.AssemblyReference.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.AssemblyInfoInputs.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.AssemblyInfo.cs
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.csproj.CoreCompileInputs.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\Cadastro.AB0B9AE8.Up2Date
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\refint\CadastroDePessoas.Application.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\CadastroDePessoas.Application.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Application\obj\Debug\net8.0\ref\CadastroDePessoas.Application.dll

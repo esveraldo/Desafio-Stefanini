@@ -1,0 +1,17 @@
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.deps.json
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Domain.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Domain.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.csproj.AssemblyReference.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.AssemblyInfoInputs.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.AssemblyInfo.cs
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.csproj.CoreCompileInputs.cache
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\Cadastro.EDC6E1FE.Up2Date
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\refint\CadastroDePessoas.Infraestructure.Security.dll
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\CadastroDePessoas.Infraestructure.Security.pdb
+C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Infraestructure.Security\obj\Debug\net8.0\ref\CadastroDePessoas.Infraestructure.Security.dll
