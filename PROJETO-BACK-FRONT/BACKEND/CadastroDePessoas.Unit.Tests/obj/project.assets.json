@@ -6121,11 +6121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Unit.Tests\\CadastroDePessoas.Unit.Tests.csproj",
+      "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Unit.Tests\\CadastroDePessoas.Unit.Tests.csproj",
       "projectName": "CadastroDePessoas.Unit.Tests",
-      "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Unit.Tests\\CadastroDePessoas.Unit.Tests.csproj",
+      "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Unit.Tests\\CadastroDePessoas.Unit.Tests.csproj",
       "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-      "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Unit.Tests\\obj\\",
+      "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Unit.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6150,8 +6150,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
-              "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
+            "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
+              "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p+7xTb0fBkk=",
+  "dgSpecHash": "dMrjx/SWh7M=",
   "success": true,
-  "projectFilePath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Unit.Tests\\CadastroDePessoas.Unit.Tests.csproj",
+  "projectFilePath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Unit.Tests\\CadastroDePessoas.Unit.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esver\\.nuget\\packages\\bogus\\35.6.3\\bogus.35.6.3.nupkg.sha512",
     "C:\\Users\\esver\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

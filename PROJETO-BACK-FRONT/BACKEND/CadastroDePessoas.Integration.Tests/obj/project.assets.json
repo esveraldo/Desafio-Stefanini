@@ -10018,11 +10018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
+      "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
       "projectName": "CadastroDePessoas.Integration.Tests",
-      "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
+      "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
       "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-      "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\obj\\",
+      "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -10047,8 +10047,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj": {
-              "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj"
+            "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj": {
+              "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj"
             }
           }
         }

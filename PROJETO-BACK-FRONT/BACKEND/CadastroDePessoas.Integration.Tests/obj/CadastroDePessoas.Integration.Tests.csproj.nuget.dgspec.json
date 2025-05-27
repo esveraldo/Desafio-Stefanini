@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj": {}
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj": {}
   },
   "projects": {
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj",
         "projectName": "CadastroDePessoas.Application",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -36,8 +36,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
         "projectName": "CadastroDePessoas.Domain.Core",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj",
         "projectName": "CadastroDePessoas.Domain",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -192,8 +192,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj"
               }
             }
           }
@@ -232,14 +232,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj",
         "projectName": "CadastroDePessoas.Infraestructure.Data",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -264,8 +264,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
               }
             }
           }
@@ -330,14 +330,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj",
         "projectName": "CadastroDePessoas.Infraestructure.IoC",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -362,17 +362,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj"
               },
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
               },
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj"
               },
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj"
               }
             }
           }
@@ -433,14 +433,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj",
         "projectName": "CadastroDePessoas.Infraestructure.Security",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -465,8 +465,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain\\CadastroDePessoas.Domain.csproj"
               }
             }
           }
@@ -515,14 +515,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
         "projectName": "CadastroDePessoas.Integration.Tests",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -547,8 +547,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj"
               }
             }
           }
@@ -617,14 +617,14 @@
         }
       }
     },
-    "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj": {
+    "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj",
+        "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj",
         "projectName": "CadastroDePessoas.Service.Api",
-        "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj",
+        "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj",
         "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-        "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api\\obj\\",
+        "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -649,8 +649,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj": {
-                "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj"
+              "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj": {
+                "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC\\CadastroDePessoas.Infraestructure.IoC.csproj"
               }
             }
           }

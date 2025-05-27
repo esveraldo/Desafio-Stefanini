@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8FHmWx4/aMs=",
+  "dgSpecHash": "jp3kg5XbJDs=",
   "success": true,
-  "projectFilePath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
+  "projectFilePath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esver\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\esver\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLYKZc9H9os=",
+  "dgSpecHash": "TwNIar+r0ww=",
   "success": true,
-  "projectFilePath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj",
+  "projectFilePath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data\\CadastroDePessoas.Infraestructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esver\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\esver\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

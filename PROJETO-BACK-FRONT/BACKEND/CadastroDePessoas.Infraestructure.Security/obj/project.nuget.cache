@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FKRjY20l8kQ=",
+  "dgSpecHash": "RX9gfbzCh9w=",
   "success": true,
-  "projectFilePath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj",
+  "projectFilePath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security\\CadastroDePessoas.Infraestructure.Security.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esver\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\esver\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.16\\microsoft.aspnetcore.authentication.jwtbearer.8.0.16.nupkg.sha512",

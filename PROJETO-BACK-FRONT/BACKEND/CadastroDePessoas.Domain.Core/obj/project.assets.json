@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
+      "projectUniqueName": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
       "projectName": "CadastroDePessoas.Domain.Core",
-      "projectPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
+      "projectPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\CadastroDePessoas.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\esver\\.nuget\\packages\\",
-      "outputPath": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core\\obj\\",
+      "outputPath": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
