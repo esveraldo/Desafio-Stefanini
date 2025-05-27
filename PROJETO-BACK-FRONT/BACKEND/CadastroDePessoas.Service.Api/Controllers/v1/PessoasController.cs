@@ -33,7 +33,7 @@ namespace CadastroDePessoas.Service.Api.Controllers.v1
             return StatusCode(200, _pessoaAppService.Get(id));
         }
 
-        [Authorize]
+        //[Authorize]
         [HttpPost]
         [ProducesResponseType(typeof(InputPessoaDto), 201)]
         public async Task<ActionResult> Post(InputPessoaDto inputPessoaDto)

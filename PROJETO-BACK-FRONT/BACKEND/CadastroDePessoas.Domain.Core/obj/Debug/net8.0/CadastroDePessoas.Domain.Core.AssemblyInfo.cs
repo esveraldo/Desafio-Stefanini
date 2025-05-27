@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroDePessoas.Domain.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9dd0e5d264a50e34071a3c741130f0746041974")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2705caf208ae19f43e012e433d57bcc8c517dad")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroDePessoas.Domain.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroDePessoas.Domain.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

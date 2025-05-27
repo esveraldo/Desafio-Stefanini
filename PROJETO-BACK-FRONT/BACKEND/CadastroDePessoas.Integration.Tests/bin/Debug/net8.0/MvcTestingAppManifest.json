@@ -1,9 +1,9 @@
 {
-  "CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Application",
-  "CadastroDePessoas.Domain.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain.Core",
-  "CadastroDePessoas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Domain",
-  "CadastroDePessoas.Infraestructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Data",
-  "CadastroDePessoas.Infraestructure.IoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.IoC",
-  "CadastroDePessoas.Infraestructure.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Infraestructure.Security",
-  "CadastroDePessoas.Service.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\BACKEND\\CadastroDePessoas.Service.Api"
+  "CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application",
+  "CadastroDePessoas.Domain.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain.Core",
+  "CadastroDePessoas.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Domain",
+  "CadastroDePessoas.Infraestructure.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Data",
+  "CadastroDePessoas.Infraestructure.IoC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.IoC",
+  "CadastroDePessoas.Infraestructure.Security, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Infraestructure.Security",
+  "CadastroDePessoas.Service.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api"
 }

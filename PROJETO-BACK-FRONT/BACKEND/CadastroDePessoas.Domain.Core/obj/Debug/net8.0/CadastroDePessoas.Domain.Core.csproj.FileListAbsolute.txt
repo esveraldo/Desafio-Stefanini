@@ -10,3 +10,16 @@ C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8
 C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\refint\CadastroDePessoas.Domain.Core.dll
 C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.pdb
 C:\DesafioCadastroDePessoas\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\ref\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.deps.json
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\bin\Debug\net8.0\CadastroDePessoas.Domain.Core.pdb
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.csproj.AssemblyReference.cache
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.AssemblyInfoInputs.cache
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.AssemblyInfo.cs
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.csproj.CoreCompileInputs.cache
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.sourcelink.json
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\refint\CadastroDePessoas.Domain.Core.dll
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\CadastroDePessoas.Domain.Core.pdb
+C:\DesafioCadastroDePessoas\PROJETO-BACK-FRONT\BACKEND\CadastroDePessoas.Domain.Core\obj\Debug\net8.0\ref\CadastroDePessoas.Domain.Core.dll

@@ -29,7 +29,7 @@ namespace CadastroDePessoas.Integration.Tests
         };
 
             var content = _testHelper.CreateContent(email);
-            var result = await _testHelper.CreateClient().PostAsync("/api/pessoas", content);
+            var result = await _testHelper.CreateClient().PostAsync("/api/v1.0/pessoas", content);
 
             result.StatusCode
                 .Should()
