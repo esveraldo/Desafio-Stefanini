@@ -7,6 +7,26 @@
       "RelativeMoniker": "D:0:0:{5BA42889-FC85-4207-90B8-A7EA880636D2}|CadastroDePessoas.Service.Api\\CadastroDePessoas.Service.Api.csproj|solutionrelative:cadastrodepessoas.service.api\\controllers\\v1\\pessoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|c:\\desafiocadastrodepessoas\\projeto-back-front\\backend\\cadastrodepessoas.application\\statuscode\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|solutionrelative:cadastrodepessoas.application\\statuscode\\successresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|c:\\desafiocadastrodepessoas\\projeto-back-front\\backend\\cadastrodepessoas.application\\statuscode\\badrequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|solutionrelative:cadastrodepessoas.application\\statuscode\\badrequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|c:\\desafiocadastrodepessoas\\projeto-back-front\\backend\\cadastrodepessoas.application\\statuscode\\unauthorizedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|solutionrelative:cadastrodepessoas.application\\statuscode\\unauthorizedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|c:\\desafiocadastrodepessoas\\projeto-back-front\\backend\\cadastrodepessoas.application\\statuscode\\notfoundresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|solutionrelative:cadastrodepessoas.application\\statuscode\\notfoundresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|c:\\desafiocadastrodepessoas\\projeto-back-front\\backend\\cadastrodepessoas.application\\statuscode\\internalservererrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5D76DE-D130-4C9D-AD07-19A83C066FEB}|CadastroDePessoas.Application\\CadastroDePessoas.Application.csproj|solutionrelative:cadastrodepessoas.application\\statuscode\\internalservererrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69B5FF66-ED25-4D1B-812F-AFFEE7484DE8}|CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj|c:\\desafiocadastrodepessoas\\projeto-back-front\\backend\\cadastrodepessoas.integration.tests\\pessoatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69B5FF66-ED25-4D1B-812F-AFFEE7484DE8}|CadastroDePessoas.Integration.Tests\\CadastroDePessoas.Integration.Tests.csproj|solutionrelative:cadastrodepessoas.integration.tests\\pessoatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,20 +54,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuccessResponse.cs",
+              "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\SuccessResponse.cs",
+              "RelativeDocumentMoniker": "CadastroDePessoas.Application\\StatusCode\\SuccessResponse.cs",
+              "ToolTip": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\SuccessResponse.cs",
+              "RelativeToolTip": "CadastroDePessoas.Application\\StatusCode\\SuccessResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:49:57.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BadRequestResponse.cs",
+              "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\BadRequestResponse.cs",
+              "RelativeDocumentMoniker": "CadastroDePessoas.Application\\StatusCode\\BadRequestResponse.cs",
+              "ToolTip": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\BadRequestResponse.cs",
+              "RelativeToolTip": "CadastroDePessoas.Application\\StatusCode\\BadRequestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:50:23.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnauthorizedResponse.cs",
+              "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\UnauthorizedResponse.cs",
+              "RelativeDocumentMoniker": "CadastroDePessoas.Application\\StatusCode\\UnauthorizedResponse.cs",
+              "ToolTip": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\UnauthorizedResponse.cs",
+              "RelativeToolTip": "CadastroDePessoas.Application\\StatusCode\\UnauthorizedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:50:55.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotFoundResponse.cs",
+              "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\NotFoundResponse.cs",
+              "RelativeDocumentMoniker": "CadastroDePessoas.Application\\StatusCode\\NotFoundResponse.cs",
+              "ToolTip": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\NotFoundResponse.cs",
+              "RelativeToolTip": "CadastroDePessoas.Application\\StatusCode\\NotFoundResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:51:22.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PessoasController.cs",
               "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\Controllers\\v1\\PessoasController.cs",
               "RelativeDocumentMoniker": "CadastroDePessoas.Service.Api\\Controllers\\v1\\PessoasController.cs",
               "ToolTip": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Service.Api\\Controllers\\v1\\PessoasController.cs",
               "RelativeToolTip": "CadastroDePessoas.Service.Api\\Controllers\\v1\\PessoasController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAuwCMAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T19:13:54.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "InternalServerErrorResponse.cs",
+              "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\InternalServerErrorResponse.cs",
+              "RelativeDocumentMoniker": "CadastroDePessoas.Application\\StatusCode\\InternalServerErrorResponse.cs",
+              "ToolTip": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Application\\StatusCode\\InternalServerErrorResponse.cs",
+              "RelativeToolTip": "CadastroDePessoas.Application\\StatusCode\\InternalServerErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:52:24.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "PessoaTest.cs",
               "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Integration.Tests\\PessoaTest.cs",
               "RelativeDocumentMoniker": "CadastroDePessoas.Integration.Tests\\PessoaTest.cs",
@@ -55,12 +140,11 @@
               "RelativeToolTip": "CadastroDePessoas.Integration.Tests\\PessoaTest.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAUwB8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T19:10:21.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:10:21.915Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PessoaTest.cs",
               "DocumentMoniker": "C:\\DesafioCadastroDePessoas\\PROJETO-BACK-FRONT\\BACKEND\\CadastroDePessoas.Unit.Tests\\Entities\\PessoaTest.cs",
               "RelativeDocumentMoniker": "CadastroDePessoas.Unit.Tests\\Entities\\PessoaTest.cs",
@@ -68,8 +152,7 @@
               "RelativeToolTip": "CadastroDePessoas.Unit.Tests\\Entities\\PessoaTest.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T19:05:45.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:05:45.974Z"
             }
           ]
         }

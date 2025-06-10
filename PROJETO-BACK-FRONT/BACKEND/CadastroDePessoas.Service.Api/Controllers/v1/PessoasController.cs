@@ -1,5 +1,7 @@
 ﻿using CadastroDePessoas.Application.Dtos.Pessoas;
 using CadastroDePessoas.Application.Interfaces.Pessoas;
+using CadastroDePessoas.Application.StatusCode;
+using CadastroDePessoas.Domain.Entities;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -20,48 +22,84 @@ namespace CadastroDePessoas.Service.Api.Controllers.v1
         }
 
         [HttpGet]
-        [ProducesResponseType(typeof(GetPessoaDto), 201)]
+        [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto[]>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(UnauthorizedResponse), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(NotFoundResponse), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(InternalServerErrorResponse), StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> Get()
         {
-            return StatusCode(200, _pessoaAppService.GetAll());
+            var result = _pessoaAppService.GetAll() ?? Array.Empty<GetPessoaDto>();
+            if (result == null)
+                return Ok(new SuccessResponse<GetPessoaDto[]>(Array.Empty<GetPessoaDto>()));
+
+            return Ok(new SuccessResponse<GetPessoaDto[]>(result.ToArray()));
         }
 
         [HttpGet("{id}")]
-        [ProducesResponseType(typeof(GetPessoaDto), 201)]
+        [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(BadRequestResponse), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(UnauthorizedResponse), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(NotFoundResponse), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(InternalServerErrorResponse), StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> Get(Guid id)
         {
-            return StatusCode(200, _pessoaAppService.Get(id));
+            var pessoa = _pessoaAppService.Get(id);
+            if (pessoa == null)
+                return NotFound(new NotFoundResponse());
+
+            return Ok(new SuccessResponse<GetPessoaDto>(pessoa));
         }
 
         //[Authorize]
         [HttpPost]
-        [ProducesResponseType(typeof(InputPessoaDto), 201)]
+        [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(BadRequestResponse), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(UnauthorizedResponse), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(InternalServerErrorResponse), StatusCodes.Status500InternalServerError)]
         public async Task<ActionResult> Post(InputPessoaDto inputPessoaDto)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(new BadRequestResponse("Dados inválidos."));
+
             var result = await _pessoaAppService.Add(inputPessoaDto);
-            return StatusCode(201, new
-            {
-                message = result,
-                inputPessoaDto
-            });
+
+            return Ok(new SuccessResponse<InputPessoaDto>(result));
         }
 
         [Authorize]
         [HttpPut]
-        [ProducesResponseType(typeof(UpdatePessoaDto), 200)]
+        [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(BadRequestResponse), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(UnauthorizedResponse), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(NotFoundResponse), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(InternalServerErrorResponse), StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Put(UpdatePessoaDto updatePessoaDto)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(new BadRequestResponse("Dados inválidos."));
+
             var result = await _pessoaAppService.Update(updatePessoaDto);
-            return StatusCode(200, result);
+
+            if (result == null)
+                return NotFound(new NotFoundResponse("Pessoa não encontrada."));
+
+            return Ok(new SuccessResponse<UpdatePessoaDto>(result));
         }
 
         [Authorize]
         [HttpDelete("{id}")]
-        [ProducesResponseType(typeof(GetPessoaDto), 201)]
+        [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto>), StatusCodes.Status200OK)]
+        [ProducesResponseType(typeof(BadRequestResponse), StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(typeof(UnauthorizedResponse), StatusCodes.Status401Unauthorized)]
+        [ProducesResponseType(typeof(NotFoundResponse), StatusCodes.Status404NotFound)]
+        [ProducesResponseType(typeof(InternalServerErrorResponse), StatusCodes.Status500InternalServerError)]
         public async Task<IActionResult> Delete(Guid id)
         {
-            var result = _pessoaAppService.Delete(id);
-            return StatusCode(200, result);
+            var result = await _pessoaAppService.Delete(id);
+            if (result == Guid.Empty)
+                return NotFound(new NotFoundResponse("Pessoa não encontrada."));
+
+            return Ok(new SuccessResponse<string>("Pessoa excluída com sucesso."));
         }
     }
 }

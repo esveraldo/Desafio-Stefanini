@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroDePessoas.Service.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2705caf208ae19f43e012e433d57bcc8c517dad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92d6272c619bbc1ddfc0b06b2a75d8004e92f30")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroDePessoas.Service.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroDePessoas.Service.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

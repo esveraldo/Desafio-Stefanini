@@ -43,11 +43,32 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto",
+        "Type": "CadastroDePessoas.Application.StatusCode.SuccessResponse\u00601[[CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto[], CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
-        "StatusCode": 201
+        "StatusCode": 200
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.UnauthorizedResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.NotFoundResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.InternalServerErrorResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ]
   },
@@ -67,11 +88,32 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.InputPessoaDto",
+        "Type": "CadastroDePessoas.Application.StatusCode.SuccessResponse\u00601[[CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto, CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
-        "StatusCode": 201
+        "StatusCode": 200
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.BadRequestResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.UnauthorizedResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.InternalServerErrorResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ]
   },
@@ -91,11 +133,39 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.UpdatePessoaDto",
+        "Type": "CadastroDePessoas.Application.StatusCode.SuccessResponse\u00601[[CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto, CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
         "StatusCode": 200
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.BadRequestResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.UnauthorizedResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.NotFoundResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.InternalServerErrorResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ]
   },
@@ -115,11 +185,39 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto",
+        "Type": "CadastroDePessoas.Application.StatusCode.SuccessResponse\u00601[[CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto, CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
-        "StatusCode": 201
+        "StatusCode": 200
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.BadRequestResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.UnauthorizedResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.NotFoundResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.InternalServerErrorResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ]
   },
@@ -139,11 +237,39 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto",
+        "Type": "CadastroDePessoas.Application.StatusCode.SuccessResponse\u00601[[CadastroDePessoas.Application.Dtos.Pessoas.GetPessoaDto, CadastroDePessoas.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],
-        "StatusCode": 201
+        "StatusCode": 200
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.BadRequestResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.UnauthorizedResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 401
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.NotFoundResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 404
+      },
+      {
+        "Type": "CadastroDePessoas.Application.StatusCode.InternalServerErrorResponse",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 500
       }
     ]
   },
