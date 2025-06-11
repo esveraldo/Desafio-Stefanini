@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroDePessoas.Infraestructure.IoC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d92d6272c619bbc1ddfc0b06b2a75d8004e92f30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc0cd8a66c003daa8747f45106a3ba1ad6837fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroDePessoas.Infraestructure.IoC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroDePessoas.Infraestructure.IoC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

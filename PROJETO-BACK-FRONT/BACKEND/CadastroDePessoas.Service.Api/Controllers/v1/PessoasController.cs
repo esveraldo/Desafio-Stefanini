@@ -66,7 +66,7 @@ namespace CadastroDePessoas.Service.Api.Controllers.v1
             return Ok(new SuccessResponse<InputPessoaDto>(result));
         }
 
-        [Authorize]
+        [Authorize(Roles = "adm")]
         [HttpPut]
         [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto>), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(BadRequestResponse), StatusCodes.Status400BadRequest)]
@@ -86,7 +86,7 @@ namespace CadastroDePessoas.Service.Api.Controllers.v1
             return Ok(new SuccessResponse<UpdatePessoaDto>(result));
         }
 
-        [Authorize]
+        [Authorize(Roles = "oper")]
         [HttpDelete("{id}")]
         [ProducesResponseType(typeof(SuccessResponse<GetPessoaDto>), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(BadRequestResponse), StatusCodes.Status400BadRequest)]

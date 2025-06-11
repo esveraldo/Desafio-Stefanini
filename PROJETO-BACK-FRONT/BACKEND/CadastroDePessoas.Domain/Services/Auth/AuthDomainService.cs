@@ -34,7 +34,7 @@ namespace CadastroDePessoas.Domain.Services.Auth
                 Id = usuario.Id,
                 Name = usuario.Nome,
                 Email = usuario.Email,
-                Role = "USER_ROLE", //perfil do usuário
+                Role = usuario.Role,
                 SignedAt = DateTime.Now,
             };
 

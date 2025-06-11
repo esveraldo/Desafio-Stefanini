@@ -21,7 +21,6 @@ namespace CadastroDePessoas.Infraestructure.Security.Services
 
         public string CreateToken(UsuarioAuth userAuth)
         {
-            var teste = _tokenSettings?.SecretKey;
             var claims = new[]
             {
                 new Claim(ClaimTypes.Name, JsonConvert.SerializeObject(userAuth)),
@@ -34,12 +33,12 @@ namespace CadastroDePessoas.Infraestructure.Security.Services
             var jwtSecurityToken = new JwtSecurityToken(
                 issuer: _tokenSettings?.Issuer,
                 audience: _tokenSettings?.Audience,
-                claims: claims, //informações de identificação do usuário
+                claims: claims, 
                 expires: DateTime.Now.AddMinutes(Convert.ToDouble(_tokenSettings?.ExpirationInMinutes)),
                 signingCredentials: credentials //assinatura do token
                 );
 
-            //retornando o token
+
             var tokenHandler = new JwtSecurityTokenHandler();
             return tokenHandler.WriteToken(jwtSecurityToken);
         }
